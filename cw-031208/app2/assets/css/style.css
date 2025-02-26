@@ -1,0 +1,21 @@
+p {
+  color: rgb(224, 228, 23);
+  font-size: 24px;
+}
+
+.matn {
+  font-family: tahoma;
+  color: red;
+  border: 1px solid blue;
+  margin: 35px;
+  padding: 25px;
+}
+
+#text {
+  font-size: 16px;
+}
+
+.blue-color {
+  /* background-color: rgb(172, 172, 230); */
+  color: magenta;
+}
