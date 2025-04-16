@@ -1,0 +1,54 @@
+@charset "UTF-8";
+@import url("https://v1.fontapi.ir/css/Estedad");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  direction: rtl;
+  font-family: estedad;
+  text-decoration: none;
+}
+
+.svgs {
+  display: none;
+}
+
+.menu {
+  font-size: 40px;
+}
+.menu li {
+  display: inline;
+  padding: 0 25px;
+  border-left: 1px dashed;
+}
+
+.menu li a:hover {
+  color: orangered;
+}
+
+header {
+  background-image: url(../img/header_green.jpg);
+  height: 9rem;
+}
+.logo {
+  width: 150px;
+  float: right;
+}
+
+.logo img {
+  width: 120px;
+  padding-top: 11px;
+  padding-right: 8px;
+}
+
+.slogan{
+  color: white;
+}
+
+
+/* .setting-icon {
+  width: 50px;
+  color: rebeccapurple;
+  height: 50px;
+} */
